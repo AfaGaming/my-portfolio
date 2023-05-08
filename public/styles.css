@@ -241,3 +241,24 @@
       font-size: 24px;
     }
   }
+
+.container1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 15px;
+  }
+
+  .logo {
+    margin-right: auto;
+  }
+
+  .nav-links {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+  }
+
+  .nav-links li {
+    margin-left: 20px;
+  }
